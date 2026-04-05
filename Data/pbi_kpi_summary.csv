@@ -1,0 +1,6 @@
+stage,stage_order,key_metric,avg_weekly,avg_spend,conversion_rate_pct,key_kpi_value,key_kpi_name
+Awareness,1,Impressions,6638815,47816,4.1,25.0,Brand Lift %
+Consideration,2,Website Visits,271966,38021,12.42,50.3,Bounce Rate %
+Intent,3,Trial Signups,33772,8053,21.51,12.0,Trial Rate %
+Conversion,4,New Customers,7265,93890,95.9,20.3,Trial→Paid %
+Retention,5,Active Customers,412093,0,0.0,4.1,Churn Rate %

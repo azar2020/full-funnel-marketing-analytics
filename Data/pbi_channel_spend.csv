@@ -1,0 +1,625 @@
+date,week,channel,stage,spend
+2023-01-02,1,TV,Awareness,26986.86
+2023-01-02,1,YouTube,Awareness,14516.14
+2023-01-02,1,Podcast,Awareness,9030.1
+2023-01-02,1,Paid Search,Consideration,18667.12
+2023-01-02,1,Social Media,Consideration,15534.8
+2023-01-02,1,Email,Intent,6591.0
+2023-01-09,2,TV,Awareness,24446.94
+2023-01-09,2,YouTube,Awareness,16212.15
+2023-01-09,2,Podcast,Awareness,15705.46
+2023-01-09,2,Paid Search,Consideration,21131.9
+2023-01-09,2,Social Media,Consideration,13070.39
+2023-01-09,2,Email,Intent,7783.87
+2023-01-16,3,TV,Awareness,27590.75
+2023-01-16,3,YouTube,Awareness,20658.56
+2023-01-16,3,Podcast,Awareness,9141.78
+2023-01-16,3,Paid Search,Consideration,22270.97
+2023-01-16,3,Social Media,Consideration,12551.8
+2023-01-16,3,Email,Intent,6185.46
+2023-01-23,4,TV,Awareness,31092.12
+2023-01-23,4,YouTube,Awareness,15523.73
+2023-01-23,4,Podcast,Awareness,10271.13
+2023-01-23,4,Paid Search,Consideration,17233.5
+2023-01-23,4,Social Media,Consideration,20121.03
+2023-01-23,4,Email,Intent,8899.89
+2023-01-30,5,TV,Awareness,24063.39
+2023-01-30,5,YouTube,Awareness,15772.65
+2023-01-30,5,Podcast,Awareness,9908.0
+2023-01-30,5,Paid Search,Consideration,22608.82
+2023-01-30,5,Social Media,Consideration,13518.5
+2023-01-30,5,Email,Intent,10296.13
+2023-02-06,6,TV,Awareness,24063.45
+2023-02-06,6,YouTube,Awareness,14776.66
+2023-02-06,6,Podcast,Awareness,9302.78
+2023-02-06,6,Paid Search,Consideration,24066.91
+2023-02-06,6,Social Media,Consideration,24141.78
+2023-02-06,6,Email,Intent,9828.14
+2023-02-13,7,TV,Awareness,31316.85
+2023-02-13,7,YouTube,Awareness,9243.69
+2023-02-13,7,Podcast,Awareness,7369.46
+2023-02-13,7,Paid Search,Consideration,21240.3
+2023-02-13,7,Social Media,Consideration,10713.25
+2023-02-13,7,Email,Intent,7679.84
+2023-02-20,8,TV,Awareness,28069.74
+2023-02-20,8,YouTube,Awareness,14920.46
+2023-02-20,8,Podcast,Awareness,9517.94
+2023-02-20,8,Paid Search,Consideration,25630.39
+2023-02-20,8,Social Media,Consideration,23937.6
+2023-02-20,8,Email,Intent,10236.09
+2023-02-27,9,TV,Awareness,23122.1
+2023-02-27,9,YouTube,Awareness,15180.69
+2023-02-27,9,Podcast,Awareness,6454.35
+2023-02-27,9,Paid Search,Consideration,17678.63
+2023-02-27,9,Social Media,Consideration,18738.56
+2023-02-27,9,Email,Intent,8223.0
+2023-03-06,10,TV,Awareness,27170.24
+2023-03-06,10,YouTube,Awareness,22389.73
+2023-03-06,10,Podcast,Awareness,7526.36
+2023-03-06,10,Paid Search,Consideration,16266.04
+2023-03-06,10,Social Media,Consideration,17661.5
+2023-03-06,10,Email,Intent,7494.37
+2023-03-13,11,TV,Awareness,23146.33
+2023-03-13,11,YouTube,Awareness,14422.92
+2023-03-13,11,Podcast,Awareness,7029.27
+2023-03-13,11,Paid Search,Consideration,14663.84
+2023-03-13,11,Social Media,Consideration,16092.78
+2023-03-13,11,Email,Intent,7079.9
+2023-03-20,12,TV,Awareness,23137.08
+2023-03-20,12,YouTube,Awareness,15904.64
+2023-03-20,12,Podcast,Awareness,8163.75
+2023-03-20,12,Paid Search,Consideration,24488.13
+2023-03-20,12,Social Media,Consideration,19396.98
+2023-03-20,12,Email,Intent,7546.3
+2023-03-27,13,TV,Awareness,25967.85
+2023-03-27,13,YouTube,Awareness,14895.86
+2023-03-27,13,Podcast,Awareness,12629.32
+2023-03-27,13,Paid Search,Consideration,21963.1
+2023-03-27,13,Social Media,Consideration,17868.28
+2023-03-27,13,Email,Intent,7417.73
+2023-04-03,14,TV,Awareness,17346.88
+2023-04-03,14,YouTube,Awareness,11493.97
+2023-04-03,14,Podcast,Awareness,4265.47
+2023-04-03,14,Paid Search,Consideration,19833.25
+2023-04-03,14,Social Media,Consideration,21861.56
+2023-04-03,14,Email,Intent,8255.62
+2023-04-10,15,TV,Awareness,18100.33
+2023-04-10,15,YouTube,Awareness,18428.47
+2023-04-10,15,Podcast,Awareness,9372.52
+2023-04-10,15,Paid Search,Consideration,20839.91
+2023-04-10,15,Social Media,Consideration,18399.8
+2023-04-10,15,Email,Intent,8240.86
+2023-04-17,16,TV,Awareness,22750.85
+2023-04-17,16,YouTube,Awareness,17255.8
+2023-04-17,16,Podcast,Awareness,4774.57
+2023-04-17,16,Paid Search,Consideration,16623.53
+2023-04-17,16,Social Media,Consideration,18526.06
+2023-04-17,16,Email,Intent,8004.57
+2023-04-24,17,TV,Awareness,20948.68
+2023-04-24,17,YouTube,Awareness,17373.1
+2023-04-24,17,Podcast,Awareness,7056.14
+2023-04-24,17,Paid Search,Consideration,27337.26
+2023-04-24,17,Social Media,Consideration,16727.36
+2023-04-24,17,Email,Intent,8655.41
+2023-05-01,18,TV,Awareness,26256.99
+2023-05-01,18,YouTube,Awareness,12271.84
+2023-05-01,18,Podcast,Awareness,10177.9
+2023-05-01,18,Paid Search,Consideration,20387.66
+2023-05-01,18,Social Media,Consideration,17800.69
+2023-05-01,18,Email,Intent,9785.97
+2023-05-08,19,TV,Awareness,21367.9
+2023-05-08,19,YouTube,Awareness,19208.38
+2023-05-08,19,Podcast,Awareness,8128.56
+2023-05-08,19,Paid Search,Consideration,20328.18
+2023-05-08,19,Social Media,Consideration,19077.31
+2023-05-08,19,Email,Intent,9424.33
+2023-05-15,20,TV,Awareness,19350.79
+2023-05-15,20,YouTube,Awareness,10794.45
+2023-05-15,20,Podcast,Awareness,5844.51
+2023-05-15,20,Paid Search,Consideration,22177.3
+2023-05-15,20,Social Media,Consideration,12014.41
+2023-05-15,20,Email,Intent,5772.65
+2023-05-22,21,TV,Awareness,30862.6
+2023-05-22,21,YouTube,Awareness,16760.57
+2023-05-22,21,Podcast,Awareness,6569.39
+2023-05-22,21,Paid Search,Consideration,21443.03
+2023-05-22,21,Social Media,Consideration,13281.35
+2023-05-22,21,Email,Intent,4169.12
+2023-05-29,22,TV,Awareness,24096.89
+2023-05-29,22,YouTube,Awareness,21571.37
+2023-05-29,22,Podcast,Awareness,9359.2
+2023-05-29,22,Paid Search,Consideration,20671.65
+2023-05-29,22,Social Media,Consideration,20601.42
+2023-05-29,22,Email,Intent,9401.48
+2023-06-05,23,TV,Awareness,25270.11
+2023-06-05,23,YouTube,Awareness,12028.39
+2023-06-05,23,Podcast,Awareness,6539.27
+2023-06-05,23,Paid Search,Consideration,17628.58
+2023-06-05,23,Social Media,Consideration,18598.03
+2023-06-05,23,Email,Intent,5949.68
+2023-06-12,24,TV,Awareness,19301.01
+2023-06-12,24,YouTube,Awareness,13301.11
+2023-06-12,24,Podcast,Awareness,8432.92
+2023-06-12,24,Paid Search,Consideration,21414.41
+2023-06-12,24,Social Media,Consideration,17356.06
+2023-06-12,24,Email,Intent,7662.85
+2023-06-19,25,TV,Awareness,22822.47
+2023-06-19,25,YouTube,Awareness,15298.95
+2023-06-19,25,Podcast,Awareness,8091.14
+2023-06-19,25,Paid Search,Consideration,25646.07
+2023-06-19,25,Social Media,Consideration,18064.52
+2023-06-19,25,Email,Intent,6244.83
+2023-06-26,26,TV,Awareness,25443.69
+2023-06-26,26,YouTube,Awareness,13489.57
+2023-06-26,26,Podcast,Awareness,6696.8
+2023-06-26,26,Paid Search,Consideration,24036.26
+2023-06-26,26,Social Media,Consideration,19216.54
+2023-06-26,26,Email,Intent,5297.03
+2023-07-03,27,TV,Awareness,20396.03
+2023-07-03,27,YouTube,Awareness,10348.01
+2023-07-03,27,Podcast,Awareness,12287.89
+2023-07-03,27,Paid Search,Consideration,24779.56
+2023-07-03,27,Social Media,Consideration,16110.84
+2023-07-03,27,Email,Intent,8812.19
+2023-07-10,28,TV,Awareness,26502.79
+2023-07-10,28,YouTube,Awareness,15205.69
+2023-07-10,28,Podcast,Awareness,9267.84
+2023-07-10,28,Paid Search,Consideration,18466.35
+2023-07-10,28,Social Media,Consideration,15275.93
+2023-07-10,28,Email,Intent,9138.73
+2023-07-17,29,TV,Awareness,22597.45
+2023-07-17,29,YouTube,Awareness,11813.09
+2023-07-17,29,Podcast,Awareness,3949.71
+2023-07-17,29,Paid Search,Consideration,17031.19
+2023-07-17,29,Social Media,Consideration,18685.46
+2023-07-17,29,Email,Intent,7135.23
+2023-07-24,30,TV,Awareness,23833.23
+2023-07-24,30,YouTube,Awareness,16420.78
+2023-07-24,30,Podcast,Awareness,8372.91
+2023-07-24,30,Paid Search,Consideration,19622.64
+2023-07-24,30,Social Media,Consideration,14575.7
+2023-07-24,30,Email,Intent,4113.44
+2023-07-31,31,TV,Awareness,22593.17
+2023-07-31,31,YouTube,Awareness,12241.73
+2023-07-31,31,Podcast,Awareness,6676.43
+2023-07-31,31,Paid Search,Consideration,20167.17
+2023-07-31,31,Social Media,Consideration,19428.88
+2023-07-31,31,Email,Intent,7180.63
+2023-08-07,32,TV,Awareness,32409.11
+2023-08-07,32,YouTube,Awareness,19649.8
+2023-08-07,32,Podcast,Awareness,9704.87
+2023-08-07,32,Paid Search,Consideration,23282.57
+2023-08-07,32,Social Media,Consideration,12040.96
+2023-08-07,32,Email,Intent,8587.71
+2023-08-14,33,TV,Awareness,24946.01
+2023-08-14,33,YouTube,Awareness,12650.24
+2023-08-14,33,Podcast,Awareness,6414.96
+2023-08-14,33,Paid Search,Consideration,14922.61
+2023-08-14,33,Social Media,Consideration,21602.04
+2023-08-14,33,Email,Intent,5781.63
+2023-08-21,34,TV,Awareness,20769.16
+2023-08-21,34,YouTube,Awareness,14033.82
+2023-08-21,34,Podcast,Awareness,7770.53
+2023-08-21,34,Paid Search,Consideration,24588.65
+2023-08-21,34,Social Media,Consideration,19654.09
+2023-08-21,34,Email,Intent,8275.04
+2023-08-28,35,TV,Awareness,28290.18
+2023-08-28,35,YouTube,Awareness,17440.55
+2023-08-28,35,Podcast,Awareness,9009.97
+2023-08-28,35,Paid Search,Consideration,19525.98
+2023-08-28,35,Social Media,Consideration,18896.1
+2023-08-28,35,Email,Intent,7977.04
+2023-09-04,36,TV,Awareness,20116.63
+2023-09-04,36,YouTube,Awareness,11307.41
+2023-09-04,36,Podcast,Awareness,9731.51
+2023-09-04,36,Paid Search,Consideration,18719.36
+2023-09-04,36,Social Media,Consideration,21439.42
+2023-09-04,36,Email,Intent,8868.94
+2023-09-11,37,TV,Awareness,25835.45
+2023-09-11,37,YouTube,Awareness,15682.38
+2023-09-11,37,Podcast,Awareness,5599.41
+2023-09-11,37,Paid Search,Consideration,16963.69
+2023-09-11,37,Social Media,Consideration,23829.16
+2023-09-11,37,Email,Intent,8179.37
+2023-09-18,38,TV,Awareness,17161.32
+2023-09-18,38,YouTube,Awareness,18921.43
+2023-09-18,38,Podcast,Awareness,7331.0
+2023-09-18,38,Paid Search,Consideration,15035.43
+2023-09-18,38,Social Media,Consideration,21550.3
+2023-09-18,38,Email,Intent,6540.4
+2023-09-25,39,TV,Awareness,19687.26
+2023-09-25,39,YouTube,Awareness,10177.55
+2023-09-25,39,Podcast,Awareness,7050.11
+2023-09-25,39,Paid Search,Consideration,22469.51
+2023-09-25,39,Social Media,Consideration,11556.94
+2023-09-25,39,Email,Intent,9794.86
+2023-10-02,40,TV,Awareness,25787.44
+2023-10-02,40,YouTube,Awareness,15553.9
+2023-10-02,40,Podcast,Awareness,6693.34
+2023-10-02,40,Paid Search,Consideration,20219.95
+2023-10-02,40,Social Media,Consideration,13521.48
+2023-10-02,40,Email,Intent,7762.21
+2023-10-09,41,TV,Awareness,27953.87
+2023-10-09,41,YouTube,Awareness,15779.65
+2023-10-09,41,Podcast,Awareness,11530.91
+2023-10-09,41,Paid Search,Consideration,16130.12
+2023-10-09,41,Social Media,Consideration,15813.13
+2023-10-09,41,Email,Intent,7959.04
+2023-10-16,42,TV,Awareness,25685.47
+2023-10-16,42,YouTube,Awareness,17345.47
+2023-10-16,42,Podcast,Awareness,8809.96
+2023-10-16,42,Paid Search,Consideration,16114.76
+2023-10-16,42,Social Media,Consideration,18091.32
+2023-10-16,42,Email,Intent,6600.1
+2023-10-23,43,TV,Awareness,24537.41
+2023-10-23,43,YouTube,Awareness,11289.15
+2023-10-23,43,Podcast,Awareness,5478.23
+2023-10-23,43,Paid Search,Consideration,18992.65
+2023-10-23,43,Social Media,Consideration,19811.81
+2023-10-23,43,Email,Intent,7335.08
+2023-10-30,44,TV,Awareness,23795.59
+2023-10-30,44,YouTube,Awareness,11038.63
+2023-10-30,44,Podcast,Awareness,9835.72
+2023-10-30,44,Paid Search,Consideration,25007.06
+2023-10-30,44,Social Media,Consideration,15459.9
+2023-10-30,44,Email,Intent,6672.8
+2023-11-06,45,TV,Awareness,19085.91
+2023-11-06,45,YouTube,Awareness,16565.82
+2023-11-06,45,Podcast,Awareness,12244.31
+2023-11-06,45,Paid Search,Consideration,19221.23
+2023-11-06,45,Social Media,Consideration,18653.68
+2023-11-06,45,Email,Intent,7740.58
+2023-11-13,46,TV,Awareness,22120.62
+2023-11-13,46,YouTube,Awareness,15890.95
+2023-11-13,46,Podcast,Awareness,10064.93
+2023-11-13,46,Paid Search,Consideration,15490.57
+2023-11-13,46,Social Media,Consideration,15356.16
+2023-11-13,46,Email,Intent,10567.56
+2023-11-20,47,TV,Awareness,23157.44
+2023-11-20,47,YouTube,Awareness,15751.48
+2023-11-20,47,Podcast,Awareness,4961.26
+2023-11-20,47,Paid Search,Consideration,19262.77
+2023-11-20,47,Social Media,Consideration,15859.69
+2023-11-20,47,Email,Intent,5942.15
+2023-11-27,48,TV,Awareness,29228.49
+2023-11-27,48,YouTube,Awareness,16039.34
+2023-11-27,48,Podcast,Awareness,7031.53
+2023-11-27,48,Paid Search,Consideration,19181.83
+2023-11-27,48,Social Media,Consideration,13076.69
+2023-11-27,48,Email,Intent,5579.66
+2023-12-04,49,TV,Awareness,26374.47
+2023-12-04,49,YouTube,Awareness,12959.93
+2023-12-04,49,Podcast,Awareness,10533.82
+2023-12-04,49,Paid Search,Consideration,11909.34
+2023-12-04,49,Social Media,Consideration,14768.68
+2023-12-04,49,Email,Intent,10206.76
+2023-12-11,50,TV,Awareness,17947.84
+2023-12-11,50,YouTube,Awareness,15696.76
+2023-12-11,50,Podcast,Awareness,6584.66
+2023-12-11,50,Paid Search,Consideration,19837.12
+2023-12-11,50,Social Media,Consideration,13269.1
+2023-12-11,50,Email,Intent,7686.01
+2023-12-18,51,TV,Awareness,26296.34
+2023-12-18,51,YouTube,Awareness,15879.22
+2023-12-18,51,Podcast,Awareness,8887.64
+2023-12-18,51,Paid Search,Consideration,19307.2
+2023-12-18,51,Social Media,Consideration,14584.44
+2023-12-18,51,Email,Intent,6996.39
+2023-12-25,52,TV,Awareness,23459.67
+2023-12-25,52,YouTube,Awareness,12856.95
+2023-12-25,52,Podcast,Awareness,9549.27
+2023-12-25,52,Paid Search,Consideration,22088.62
+2023-12-25,52,Social Media,Consideration,21687.75
+2023-12-25,52,Email,Intent,9559.86
+2024-01-01,53,TV,Awareness,22292.31
+2024-01-01,53,YouTube,Awareness,20597.32
+2024-01-01,53,Podcast,Awareness,6146.14
+2024-01-01,53,Paid Search,Consideration,25546.87
+2024-01-01,53,Social Media,Consideration,14677.1
+2024-01-01,53,Email,Intent,7091.58
+2024-01-08,54,TV,Awareness,27446.71
+2024-01-08,54,YouTube,Awareness,16421.5
+2024-01-08,54,Podcast,Awareness,7880.95
+2024-01-08,54,Paid Search,Consideration,23379.7
+2024-01-08,54,Social Media,Consideration,27213.34
+2024-01-08,54,Email,Intent,10739.01
+2024-01-15,55,TV,Awareness,29124.0
+2024-01-15,55,YouTube,Awareness,11426.09
+2024-01-15,55,Podcast,Awareness,1517.47
+2024-01-15,55,Paid Search,Consideration,19193.33
+2024-01-15,55,Social Media,Consideration,19726.61
+2024-01-15,55,Email,Intent,9016.89
+2024-01-22,56,TV,Awareness,28725.12
+2024-01-22,56,YouTube,Awareness,16969.66
+2024-01-22,56,Podcast,Awareness,5951.22
+2024-01-22,56,Paid Search,Consideration,16680.42
+2024-01-22,56,Social Media,Consideration,18646.93
+2024-01-22,56,Email,Intent,7268.13
+2024-01-29,57,TV,Awareness,21643.13
+2024-01-29,57,YouTube,Awareness,12075.95
+2024-01-29,57,Podcast,Awareness,7494.86
+2024-01-29,57,Paid Search,Consideration,27720.08
+2024-01-29,57,Social Media,Consideration,14995.75
+2024-01-29,57,Email,Intent,11235.96
+2024-02-05,58,TV,Awareness,23763.15
+2024-02-05,58,YouTube,Awareness,17361.25
+2024-02-05,58,Podcast,Awareness,5504.43
+2024-02-05,58,Paid Search,Consideration,20177.66
+2024-02-05,58,Social Media,Consideration,20451.08
+2024-02-05,58,Email,Intent,7091.43
+2024-02-12,59,TV,Awareness,26325.05
+2024-02-12,59,YouTube,Awareness,18475.79
+2024-02-12,59,Podcast,Awareness,11264.82
+2024-02-12,59,Paid Search,Consideration,20041.79
+2024-02-12,59,Social Media,Consideration,15985.27
+2024-02-12,59,Email,Intent,9113.14
+2024-02-19,60,TV,Awareness,28902.18
+2024-02-19,60,YouTube,Awareness,12537.95
+2024-02-19,60,Podcast,Awareness,5139.72
+2024-02-19,60,Paid Search,Consideration,19927.62
+2024-02-19,60,Social Media,Consideration,18427.03
+2024-02-19,60,Email,Intent,8448.94
+2024-02-26,61,TV,Awareness,23083.3
+2024-02-26,61,YouTube,Awareness,17890.13
+2024-02-26,61,Podcast,Awareness,7119.91
+2024-02-26,61,Paid Search,Consideration,20594.25
+2024-02-26,61,Social Media,Consideration,26960.3
+2024-02-26,61,Email,Intent,9952.61
+2024-03-04,62,TV,Awareness,24257.36
+2024-03-04,62,YouTube,Awareness,16238.34
+2024-03-04,62,Podcast,Awareness,8261.48
+2024-03-04,62,Paid Search,Consideration,19566.92
+2024-03-04,62,Social Media,Consideration,17663.79
+2024-03-04,62,Email,Intent,10342.27
+2024-03-11,63,TV,Awareness,20574.66
+2024-03-11,63,YouTube,Awareness,17466.18
+2024-03-11,63,Podcast,Awareness,10882.55
+2024-03-11,63,Paid Search,Consideration,18279.01
+2024-03-11,63,Social Media,Consideration,22022.46
+2024-03-11,63,Email,Intent,8048.01
+2024-03-18,64,TV,Awareness,20215.17
+2024-03-18,64,YouTube,Awareness,20690.38
+2024-03-18,64,Podcast,Awareness,5128.28
+2024-03-18,64,Paid Search,Consideration,18359.42
+2024-03-18,64,Social Media,Consideration,15538.88
+2024-03-18,64,Email,Intent,6869.87
+2024-03-25,65,TV,Awareness,28250.1
+2024-03-25,65,YouTube,Awareness,14263.84
+2024-03-25,65,Podcast,Awareness,10326.33
+2024-03-25,65,Paid Search,Consideration,19901.74
+2024-03-25,65,Social Media,Consideration,17877.54
+2024-03-25,65,Email,Intent,8689.96
+2024-04-01,66,TV,Awareness,30424.96
+2024-04-01,66,YouTube,Awareness,12738.79
+2024-04-01,66,Podcast,Awareness,8020.47
+2024-04-01,66,Paid Search,Consideration,18369.73
+2024-04-01,66,Social Media,Consideration,24197.8
+2024-04-01,66,Email,Intent,6983.43
+2024-04-08,67,TV,Awareness,24711.96
+2024-04-08,67,YouTube,Awareness,12331.46
+2024-04-08,67,Podcast,Awareness,6036.98
+2024-04-08,67,Paid Search,Consideration,17861.46
+2024-04-08,67,Social Media,Consideration,15805.62
+2024-04-08,67,Email,Intent,11020.08
+2024-04-15,68,TV,Awareness,29014.13
+2024-04-15,68,YouTube,Awareness,12552.57
+2024-04-15,68,Podcast,Awareness,8924.21
+2024-04-15,68,Paid Search,Consideration,20319.29
+2024-04-15,68,Social Media,Consideration,24343.57
+2024-04-15,68,Email,Intent,8204.8
+2024-04-22,69,TV,Awareness,26446.54
+2024-04-22,69,YouTube,Awareness,14768.69
+2024-04-22,69,Podcast,Awareness,8398.12
+2024-04-22,69,Paid Search,Consideration,19235.07
+2024-04-22,69,Social Media,Consideration,20477.13
+2024-04-22,69,Email,Intent,7452.02
+2024-04-29,70,TV,Awareness,22419.52
+2024-04-29,70,YouTube,Awareness,16023.46
+2024-04-29,70,Podcast,Awareness,6799.57
+2024-04-29,70,Paid Search,Consideration,24511.98
+2024-04-29,70,Social Media,Consideration,16031.37
+2024-04-29,70,Email,Intent,8277.02
+2024-05-06,71,TV,Awareness,26445.58
+2024-05-06,71,YouTube,Awareness,15830.07
+2024-05-06,71,Podcast,Awareness,8139.6
+2024-05-06,71,Paid Search,Consideration,12047.09
+2024-05-06,71,Social Media,Consideration,20213.43
+2024-05-06,71,Email,Intent,5979.31
+2024-05-13,72,TV,Awareness,31152.15
+2024-05-13,72,YouTube,Awareness,17481.55
+2024-05-13,72,Podcast,Awareness,7229.37
+2024-05-13,72,Paid Search,Consideration,23274.52
+2024-05-13,72,Social Media,Consideration,21403.94
+2024-05-13,72,Email,Intent,6542.58
+2024-05-20,73,TV,Awareness,24856.7
+2024-05-20,73,YouTube,Awareness,15039.01
+2024-05-20,73,Podcast,Awareness,8227.03
+2024-05-20,73,Paid Search,Consideration,23738.26
+2024-05-20,73,Social Media,Consideration,20176.33
+2024-05-20,73,Email,Intent,9800.62
+2024-05-27,74,TV,Awareness,31258.57
+2024-05-27,74,YouTube,Awareness,19360.6
+2024-05-27,74,Podcast,Awareness,9324.26
+2024-05-27,74,Paid Search,Consideration,13779.83
+2024-05-27,74,Social Media,Consideration,12504.21
+2024-05-27,74,Email,Intent,7014.66
+2024-06-03,75,TV,Awareness,14521.02
+2024-06-03,75,YouTube,Awareness,14206.03
+2024-06-03,75,Podcast,Awareness,11172.03
+2024-06-03,75,Paid Search,Consideration,18971.94
+2024-06-03,75,Social Media,Consideration,15455.02
+2024-06-03,75,Email,Intent,6429.63
+2024-06-10,76,TV,Awareness,28287.61
+2024-06-10,76,YouTube,Awareness,23160.51
+2024-06-10,76,Podcast,Awareness,5524.37
+2024-06-10,76,Paid Search,Consideration,18885.68
+2024-06-10,76,Social Media,Consideration,17133.68
+2024-06-10,76,Email,Intent,8804.98
+2024-06-17,77,TV,Awareness,25348.19
+2024-06-17,77,YouTube,Awareness,16877.0
+2024-06-17,77,Podcast,Awareness,12266.07
+2024-06-17,77,Paid Search,Consideration,15777.46
+2024-06-17,77,Social Media,Consideration,17739.48
+2024-06-17,77,Email,Intent,9778.56
+2024-06-24,78,TV,Awareness,23803.97
+2024-06-24,78,YouTube,Awareness,12428.53
+2024-06-24,78,Podcast,Awareness,4095.82
+2024-06-24,78,Paid Search,Consideration,17666.55
+2024-06-24,78,Social Media,Consideration,20172.35
+2024-06-24,78,Email,Intent,9078.43
+2024-07-01,79,TV,Awareness,25367.04
+2024-07-01,79,YouTube,Awareness,11787.32
+2024-07-01,79,Podcast,Awareness,7696.43
+2024-07-01,79,Paid Search,Consideration,16668.27
+2024-07-01,79,Social Media,Consideration,18621.95
+2024-07-01,79,Email,Intent,9494.07
+2024-07-08,80,TV,Awareness,17049.72
+2024-07-08,80,YouTube,Awareness,16447.42
+2024-07-08,80,Podcast,Awareness,9176.63
+2024-07-08,80,Paid Search,Consideration,25256.81
+2024-07-08,80,Social Media,Consideration,13326.29
+2024-07-08,80,Email,Intent,6864.81
+2024-07-15,81,TV,Awareness,24121.31
+2024-07-15,81,YouTube,Awareness,14329.61
+2024-07-15,81,Podcast,Awareness,8561.98
+2024-07-15,81,Paid Search,Consideration,22807.04
+2024-07-15,81,Social Media,Consideration,19330.69
+2024-07-15,81,Email,Intent,5867.28
+2024-07-22,82,TV,Awareness,26428.45
+2024-07-22,82,YouTube,Awareness,17142.0
+2024-07-22,82,Podcast,Awareness,6754.6
+2024-07-22,82,Paid Search,Consideration,23814.67
+2024-07-22,82,Social Media,Consideration,20137.05
+2024-07-22,82,Email,Intent,10252.0
+2024-07-29,83,TV,Awareness,30911.58
+2024-07-29,83,YouTube,Awareness,16419.71
+2024-07-29,83,Podcast,Awareness,7583.76
+2024-07-29,83,Paid Search,Consideration,22165.02
+2024-07-29,83,Social Media,Consideration,19959.27
+2024-07-29,83,Email,Intent,7515.98
+2024-08-05,84,TV,Awareness,22926.92
+2024-08-05,84,YouTube,Awareness,14781.51
+2024-08-05,84,Podcast,Awareness,7014.0
+2024-08-05,84,Paid Search,Consideration,16612.84
+2024-08-05,84,Social Media,Consideration,21782.73
+2024-08-05,84,Email,Intent,7623.75
+2024-08-12,85,TV,Awareness,21766.03
+2024-08-12,85,YouTube,Awareness,12459.62
+2024-08-12,85,Podcast,Awareness,6821.27
+2024-08-12,85,Paid Search,Consideration,18426.44
+2024-08-12,85,Social Media,Consideration,20918.73
+2024-08-12,85,Email,Intent,9992.29
+2024-08-19,86,TV,Awareness,22992.97
+2024-08-19,86,YouTube,Awareness,10455.46
+2024-08-19,86,Podcast,Awareness,9699.2
+2024-08-19,86,Paid Search,Consideration,21468.12
+2024-08-19,86,Social Media,Consideration,19607.13
+2024-08-19,86,Email,Intent,8834.35
+2024-08-26,87,TV,Awareness,28661.61
+2024-08-26,87,YouTube,Awareness,13660.46
+2024-08-26,87,Podcast,Awareness,8714.03
+2024-08-26,87,Paid Search,Consideration,16333.62
+2024-08-26,87,Social Media,Consideration,17754.42
+2024-08-26,87,Email,Intent,8683.83
+2024-09-02,88,TV,Awareness,26315.0
+2024-09-02,88,YouTube,Awareness,17569.2
+2024-09-02,88,Podcast,Awareness,6614.18
+2024-09-02,88,Paid Search,Consideration,22139.0
+2024-09-02,88,Social Media,Consideration,12186.64
+2024-09-02,88,Email,Intent,11247.5
+2024-09-09,89,TV,Awareness,22880.96
+2024-09-09,89,YouTube,Awareness,15642.28
+2024-09-09,89,Podcast,Awareness,9799.2
+2024-09-09,89,Paid Search,Consideration,19279.02
+2024-09-09,89,Social Media,Consideration,19503.66
+2024-09-09,89,Email,Intent,7034.72
+2024-09-16,90,TV,Awareness,27053.07
+2024-09-16,90,YouTube,Awareness,11262.78
+2024-09-16,90,Podcast,Awareness,8614.6
+2024-09-16,90,Paid Search,Consideration,18875.54
+2024-09-16,90,Social Media,Consideration,18726.91
+2024-09-16,90,Email,Intent,9391.76
+2024-09-23,91,TV,Awareness,25388.31
+2024-09-23,91,YouTube,Awareness,15519.54
+2024-09-23,91,Podcast,Awareness,9625.72
+2024-09-23,91,Paid Search,Consideration,22132.88
+2024-09-23,91,Social Media,Consideration,18950.53
+2024-09-23,91,Email,Intent,8085.52
+2024-09-30,92,TV,Awareness,28874.58
+2024-09-30,92,YouTube,Awareness,16155.95
+2024-09-30,92,Podcast,Awareness,9259.26
+2024-09-30,92,Paid Search,Consideration,21332.79
+2024-09-30,92,Social Media,Consideration,13531.38
+2024-09-30,92,Email,Intent,8402.89
+2024-10-07,93,TV,Awareness,22191.79
+2024-10-07,93,YouTube,Awareness,12348.43
+2024-10-07,93,Podcast,Awareness,6342.01
+2024-10-07,93,Paid Search,Consideration,18917.1
+2024-10-07,93,Social Media,Consideration,14216.3
+2024-10-07,93,Email,Intent,10292.7
+2024-10-14,94,TV,Awareness,23689.35
+2024-10-14,94,YouTube,Awareness,15461.18
+2024-10-14,94,Podcast,Awareness,6879.64
+2024-10-14,94,Paid Search,Consideration,23477.99
+2024-10-14,94,Social Media,Consideration,21686.03
+2024-10-14,94,Email,Intent,8761.75
+2024-10-21,95,TV,Awareness,23431.57
+2024-10-21,95,YouTube,Awareness,15174.63
+2024-10-21,95,Podcast,Awareness,9494.59
+2024-10-21,95,Paid Search,Consideration,16756.81
+2024-10-21,95,Social Media,Consideration,17861.56
+2024-10-21,95,Email,Intent,8807.44
+2024-10-28,96,TV,Awareness,19145.94
+2024-10-28,96,YouTube,Awareness,11571.09
+2024-10-28,96,Podcast,Awareness,9220.74
+2024-10-28,96,Paid Search,Consideration,21847.81
+2024-10-28,96,Social Media,Consideration,20385.25
+2024-10-28,96,Email,Intent,9608.76
+2024-11-04,97,TV,Awareness,26184.48
+2024-11-04,97,YouTube,Awareness,16073.36
+2024-11-04,97,Podcast,Awareness,7958.2
+2024-11-04,97,Paid Search,Consideration,21779.3
+2024-11-04,97,Social Media,Consideration,18099.11
+2024-11-04,97,Email,Intent,7452.57
+2024-11-11,98,TV,Awareness,26044.22
+2024-11-11,98,YouTube,Awareness,16682.35
+2024-11-11,98,Podcast,Awareness,8234.65
+2024-11-11,98,Paid Search,Consideration,19071.36
+2024-11-11,98,Social Media,Consideration,18104.15
+2024-11-11,98,Email,Intent,6741.19
+2024-11-18,99,TV,Awareness,25020.45
+2024-11-18,99,YouTube,Awareness,18249.15
+2024-11-18,99,Podcast,Awareness,10555.33
+2024-11-18,99,Paid Search,Consideration,20978.4
+2024-11-18,99,Social Media,Consideration,21283.99
+2024-11-18,99,Email,Intent,6432.79
+2024-11-25,100,TV,Awareness,24061.65
+2024-11-25,100,YouTube,Awareness,18161.41
+2024-11-25,100,Podcast,Awareness,6816.86
+2024-11-25,100,Paid Search,Consideration,16246.66
+2024-11-25,100,Social Media,Consideration,16193.84
+2024-11-25,100,Email,Intent,5050.47
+2024-12-02,101,TV,Awareness,19338.52
+2024-12-02,101,YouTube,Awareness,10866.99
+2024-12-02,101,Podcast,Awareness,9094.19
+2024-12-02,101,Paid Search,Consideration,22772.08
+2024-12-02,101,Social Media,Consideration,18336.42
+2024-12-02,101,Email,Intent,11084.31
+2024-12-09,102,TV,Awareness,23317.42
+2024-12-09,102,YouTube,Awareness,12186.52
+2024-12-09,102,Podcast,Awareness,7595.61
+2024-12-09,102,Paid Search,Consideration,19445.29
+2024-12-09,102,Social Media,Consideration,16382.04
+2024-12-09,102,Email,Intent,6345.19
+2024-12-16,103,TV,Awareness,23629.14
+2024-12-16,103,YouTube,Awareness,16545.11
+2024-12-16,103,Podcast,Awareness,7564.64
+2024-12-16,103,Paid Search,Consideration,18431.83
+2024-12-16,103,Social Media,Consideration,16479.26
+2024-12-16,103,Email,Intent,7668.12
+2024-12-23,104,TV,Awareness,21790.89
+2024-12-23,104,YouTube,Awareness,16541.36
+2024-12-23,104,Podcast,Awareness,10197.55
+2024-12-23,104,Paid Search,Consideration,23147.03
+2024-12-23,104,Social Media,Consideration,16917.9
+2024-12-23,104,Email,Intent,7584.78

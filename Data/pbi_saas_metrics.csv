@@ -1,0 +1,9 @@
+metric,value,benchmark,status
+Avg CAC,19.0,<$500,✅ Healthy
+Avg LTV,1120.0,>$1000,✅ Healthy
+Avg LTV:CAC,87.4,>3x,✅ Excellent
+Avg Payback (weeks),2.6,<52 weeks,✅ Healthy
+Avg Churn Rate %,4.1,<5%,✅ Healthy
+Avg NPS,46.0,>40,✅ Good
+Avg MRR,19568998.0,Growing,✅ Growing
+Avg ARPU,44.31,>$40,✅ Healthy
