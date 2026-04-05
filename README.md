@@ -9,9 +9,9 @@ Full-funnel SaaS marketing analytics tracking  5 stages: Awareness → Considera
 
 ## 🗂 Project Overview
 
-This project demonstrates a complete **full-funnel marketing analytics framework** for Company A, a SaaS email marketing platform (similar to Constant Contact). The analysis tracks the entire customer journey — from first brand impression through to paid subscription and long-term retention — measuring how upper-funnel media investment drives lower-funnel revenue outcomes.
+This project demonstrates a complete full-funnel marketing analytics framework for Company A, a SaaS email marketing platform (similar to Constant Contact). The analysis tracks the entire customer journey — from first brand impression through to paid subscription and long-term retention — measuring how upper-funnel media investment drives lower-funnel revenue outcomes.
 
-The project moves beyond single-channel, last-click attribution to provide a **holistic view of how media investment drives growth** across all five funnel stages — directly mirroring the measurement framework described in modern SaaS marketing analytics roles.
+The project moves beyond single-channel, last-click attribution to provide a holistic view of how media investment drives growth across all five funnel stages — directly mirroring the measurement framework described in modern SaaS marketing analytics roles.
 
 > **Note:** Company A is an anonymized SaaS client. All data is simulated to reflect realistic marketing dynamics including seasonality, adstock lag effects, churn behavior, and SaaS unit economics.
 
